@@ -44,3 +44,13 @@ Add your scripts in the same way as you would have add using npm in package.json
 
 ## Global module
 `yarn global <add|remove|upgrade> <package|package@version>`
+
+## Initializing `package.json`
+This command walks you through an interactive session to create a package.json file.
+`yarn init`
+
+## Publish
+Publishes the package defined by the package.json in the current directory.
+`yarn publish` 
+
+For More Docs visit [yarn docs](https://yarnpkg.com/en/docs/cli/)
